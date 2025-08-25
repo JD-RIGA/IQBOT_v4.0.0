@@ -1,0 +1,12 @@
+{
+  "asset_base": "EURUSD",
+  "asset_otc": true,
+  "auto_new_option": true,
+  "recovery_margin": 0.06,
+  "show_margin": true,
+  "external_clicks": false,
+  "enabled_tools": [
+    "alerta_uso",
+    "example_tool"
+  ]
+}
